@@ -1,0 +1,37 @@
+
+
+
+1. EvenOddArray.java
+Preview:
+This Java program accepts numbers from the user and categorizes them into even and odd arrays.
+
+Steps:
+
+Accept the size of the array from the user.
+Initialize arrays to hold even and odd numbers.
+Accept numbers from the user and categorize them into even and odd arrays.
+Display the even and odd numbers.
+
+
+2. NearestNeighbors.java
+Preview:
+This Java program finds the index of the first number in an array that has the smallest absolute difference with its neighboring number.
+
+Steps:
+
+Receive an array as input.
+Iterate through the array to find the pair of neighboring numbers with the smallest absolute difference.
+Return the index of the first number in the pair.
+
+
+3. ArrayConversion.java
+Preview:
+This Java program converts an array to an ArrayList and vice versa.
+
+Steps:
+
+Initialize an array with some values.
+Convert the array to an ArrayList using Arrays.asList().
+Print the ArrayList.
+Convert the ArrayList back to an array using toArray() method.
+Print the array.
